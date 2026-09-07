@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/API/" />
   <Folder Name="/Core/">
+    <Project Path="Store.Application/Store.Application.csproj" Id="19913b75-b217-4b64-9b50-71142d24e6c7" />
     <Project Path="Store.Domain/Store.Domain.csproj" />
   </Folder>
   <Folder Name="/Infraestructure/" />
