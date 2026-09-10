@@ -1,8 +1,12 @@
 <Solution>
-  <Folder Name="/API/" />
+  <Folder Name="/API/">
+    <Project Path="StoreProducts.WebAPI/StoreProducts.WebAPI.csproj" Id="f1ccf74c-d017-4cd9-a17d-b7473c7cecb1" />
+  </Folder>
   <Folder Name="/Core/">
     <Project Path="Store.Application/Store.Application.csproj" Id="19913b75-b217-4b64-9b50-71142d24e6c7" />
     <Project Path="Store.Domain/Store.Domain.csproj" />
   </Folder>
-  <Folder Name="/Infraestructure/" />
+  <Folder Name="/Infraestructure/">
+    <Project Path="Store.Infraestructure/Store.Infraestructure.csproj" Id="18390657-223b-4dd0-925c-702495d1f0ea" />
+  </Folder>
 </Solution>
